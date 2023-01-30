@@ -1,0 +1,1 @@
+Merhaba, Bu eklentiyi javascript ile yazdım. Bu uygulamayı yazmadaki amacım zararlı bağlantıların çok iyi şekilde olması ve kullanıcılara zarar verebilceğini düşündüğümden dolayı yazmaya karar verdim ve bu projede bana yardımcı olan Onur Savaş arkadaşıma teşekkür ederim.

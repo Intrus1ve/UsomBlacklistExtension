@@ -21,8 +21,9 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE` for
 
 ## İletişim / Contact
 
-``` onursavas0534@gmail.com ```
+```intrus1veoffical@gmail.com```
+``` https://www.linkedin.com/in/ömer-bayraktar-a8a9121b0/ ```
 
 ``` https://www.linkedin.com/in/onur-savas/ ```
 
-``` https://www.linkedin.com/in/%C3%B6-b-a8a9121b0/ ```
+

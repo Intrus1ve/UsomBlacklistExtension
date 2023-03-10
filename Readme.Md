@@ -11,7 +11,7 @@ Aşağıda Eklentiyi nasıl tarayıcınıza ekleyeceğinizi ve nasıl çalışt�
 ### Eklentiden Bir Video
 
 
-https://user-images.githubusercontent.com/124740638/217935613-9c8af6ec-bacf-43ae-9a51-4eaeae20035e.mp4
+https://www.youtube.com/embed/yydm9kRDiEk
 
 
 
